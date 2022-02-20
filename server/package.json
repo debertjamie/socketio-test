@@ -1,0 +1,14 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Debert Jamie <debert123@protonmail.com>",
+  "dependencies": {
+    "socket.io": "^4.4.1",
+    "ws": "^8.5.0"
+  }
+}
